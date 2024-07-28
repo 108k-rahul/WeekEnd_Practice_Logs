@@ -15,7 +15,6 @@ void BinToDec(int binNum){
     cout<<"Decimal of "<<binNum<<" is " <<decNum<<"."<< endl;
 }
 
-
 int main(){
     int n;
     cout<<"Enter binary number: ";
